@@ -7,6 +7,7 @@ import math
 
 # This is a test comment
 # This is a second test comment
+# This is a third test comment
 
 print("Starting program", flush=True)
 
